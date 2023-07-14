@@ -23,7 +23,7 @@ I have worked on classification algorithms and feature selection strategies in m
 In the next years, I plan to continue my efforts in machine learning research. On the
 On the one hand, I want to focus on technical solutions to utilize the learning algorithms efficiently and
 their applications.
-- 📫 How to reach me ...
+
 
 <!---
 asmaamohamed1989/asmaamohamed1989 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
